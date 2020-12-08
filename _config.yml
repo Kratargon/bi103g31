@@ -1,0 +1,27 @@
+title: Microtubule Catastrophe
+description: >
+  Study of microtubule catastrophe by Bi 113 Group 31.  
+
+permalink: ':title/'
+baseurl:  ""
+url: ""
+
+social-github: Kratargon
+social-email: lmdavis@caltech.edu
+
+# You can include a logo for your work as a .png that is saved in the folder 
+# 'assets/img/'. If you want a logo to show up, put the filename of the logo here
+author-img: logo.png
+
+
+# Build settings for the website. Do not modify this unless you know what you
+# are doing.
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+# Files to exclude from the website build. You may not want to include all data
+# files for example.
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files"]
