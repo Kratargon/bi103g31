@@ -1,0 +1,32 @@
+# ##############################################################################
+# Authors List
+# ------------------------------------------------------------------------------
+# This YAML data file contains entry for each author involved in the work
+# This YAML data file contains information for each author of the work. The 
+# author list will be generated in the order in which they are listed below. 
+# You can  add additional fields to each person, but these will not show up
+# automatically and must then be included manually in the Liquid template code 
+# of the `page01_people.md` file.
+# ##############################################################################
+- author:
+  name: Luc Davis
+  title: Undergraduate Student
+  img: luc_image.png
+  institute: California Institute of Technology
+  other_info:
+     Email Address: "lmdavis@caltech.edu"
+- author:
+  name: Pratyush Kandimalla
+  title: Graduate Student
+  img: prat_image.png
+  institute: California Institute of Technology
+  other_info:
+    Email Address: "pkandima@caltech.edu"
+
+- author:
+  name: Iris Lee
+  title: Undergraduate Student
+  img: iris_image.png
+  institute: California Institute of Technology
+  other_info:
+      Email Address: "irislee@caltech.edu"
