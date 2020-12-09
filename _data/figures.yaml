@@ -7,4 +7,4 @@
     - ds: 
       storage: local
       title: Microtubule Catastrophe Data
-      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"
+      link: "gardner_mt_catastrophe_only_tubulin.csv"
