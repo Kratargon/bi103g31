@@ -5,7 +5,7 @@
   pic: fig1.png
   req:
     - ds: 
-      storage: remote
+      storage: local
       title: Dataset 1
       link: "http://data.caltech.edu"
 
