@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Information about the project, website, and links to the paper and SI
-img: Catastrophe.png # Add image post (optional)
+img: long_microtubule.jpg
 caption: "Microtubules undergoing catastrophe (2020)"
 permalink: index.html
 sidebar: true
