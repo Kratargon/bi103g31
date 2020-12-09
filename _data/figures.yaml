@@ -2,7 +2,7 @@
   title: "Fig. 1: Microtubule Time to Catastrophe as a Function of Tubulin Concentration ECDF"
   filename: ecdf_plot.py
   desc:  Used to generate the ecdf plot
-  pic: fig1.png
+  pic: fig1
   req:
     - ds: 
       storage: local
