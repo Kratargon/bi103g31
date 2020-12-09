@@ -2,9 +2,3 @@
   name: ecdf_plot.py
   desc: >
     Script which calculates and plots the ECDF of a data set.
-- script:
-  name: script2.py
-  desc: >
-    Yet another script that does something-or-other.
-
-
