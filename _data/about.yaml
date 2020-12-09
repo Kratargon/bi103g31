@@ -16,8 +16,23 @@ authors: >
 Abstract: >
   This is a project in which we analyzed microtubule catastrophe data.  
 Summary:  >
-  Basically, we looked at the tubules and saw what they did on a statistical
-  level, and saw whether certain methods were valid for modeling their behavior.
+  In our analysis, we first determine whether the data is more accurately modelled 
+  with a gamma distribution or a proposed distribution where two successive arrival 
+  events with arrival rates beta 1 and beta 2 are necessary for catastrophe. We 
+  computed the MLEs of the data both of these distriutions and compared the results 
+  graphically. We also computed the AIC and concluded that the gamma distribution 
+  refleccted our data more accurately.
+  
+  We proceeded to model the data with the gamma distribution and compute confidence
+  intervals for our MLE parameters, alpha and beta,in order to analyze our microtubule 
+  catastrophe behavior. The beta values were consistent throughout. The confidence 
+  intervals for the alpha values were very similar between the 7 uM and 9 uM trials 
+  and between the 10 uM and 12 uM trials. The alpha of the 10 uM and 12 uM trials were 
+  larger than the 7 uM and 9 uM trials with significant non-overlap between their 
+  confidence intervals, but the 14 uM trial had the largest alpha values with little 
+  confidence interval overlap with either of them. Thus we concluded that the rates of 
+  arrival (beta) remain somewhat consistent across concentrations, but the number of 
+  arrivals (alpha) increase with increasing concentrations.
 Acknowledgments: > 
   Thanks to the Caltech Bi 113 TAs, and Prof. Justin for helping with analysis
   and conceptual advice.
