@@ -5,7 +5,9 @@
 - script:
   name: fig2_gammaplot.py
   desc: >
-    Script which calculates and plots the ECDF of a data set.
+    Script to plot ECDF of the time to catastrophe at 12uM Tubulin 
+    concentration and compare it to the Gamma Model with parameters 
+    determined by MLE
 - script:
   name: fig3_storyplot.py
   desc: >
