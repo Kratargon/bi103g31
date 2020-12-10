@@ -14,6 +14,13 @@ title: >
 authors: >
   Luc Davis, Pratyush Kandimalla, Iris Lee
 Abstract: >
+  The subject of this research is to consider several methods for modelling the 
+  distribution of microtubule catastrophe times and determine both which method is 
+  more accurate, and what the parameters give the most accurate distribution for that 
+  method.
+  
+  To this end, we compare data generated using distributions with real gathered data.
+  
   In our analysis, we first determine whether the data is more accurately modelled 
   with a gamma distribution or a proposed distribution where two successive arrival 
   events with arrival rates beta 1 and beta 2 are necessary for catastrophe. We 
