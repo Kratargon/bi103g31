@@ -4,3 +4,9 @@
   name: "Microtubule Catastrophe Data"
   filetype: .csv
   filesize: 11 kb
+- dataset:
+  storage: local 
+  link: "tidy_mt_catastrophe.xlsx"
+  name: "Tidied Microtubule Catastrophe Data"
+  filetype: .xslx
+  filesize: 25 kb
