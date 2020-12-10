@@ -14,8 +14,6 @@ title: >
 authors: >
   Luc Davis, Pratyush Kandimalla, Iris Lee
 Abstract: >
-  This is a project in which we analyzed microtubule catastrophe data.  
-Summary:  >
   In our analysis, we first determine whether the data is more accurately modelled 
   with a gamma distribution or a proposed distribution where two successive arrival 
   events with arrival rates beta 1 and beta 2 are necessary for catastrophe. We 
@@ -33,6 +31,8 @@ Summary:  >
   confidence interval overlap with either of them. Thus we concluded that the rates of 
   arrival (beta) remain somewhat consistent across concentrations, but the number of 
   arrivals (alpha) increase with increasing concentrations.
+Package:  >
+  https://github.com/KandimallaPrat/micro_catastrophe
 Acknowledgments: > 
   Thanks to the Caltech Bi 113 TAs, and Prof. Justin for helping with analysis
   and conceptual advice.
