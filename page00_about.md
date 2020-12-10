@@ -3,7 +3,7 @@ layout: page
 title: About
 description: Information about the project, website, and links to the paper and SI
 img: long_microtubule.jpg
-caption: "Microtubules undergoing catastrophe (2020)"
+caption: "Microtubules in Alignment"
 permalink: index.html
 sidebar: true
 ---

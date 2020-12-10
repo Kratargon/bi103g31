@@ -32,7 +32,7 @@ Abstract: >
   arrival (beta) remain somewhat consistent across concentrations, but the number of 
   arrivals (alpha) increase with increasing concentrations.
 Package:  >
-  [https://github.com/KandimallaPrat/micro_catastrophe]
+  https://github.com/KandimallaPrat/micro_catastrophe
 Acknowledgments: > 
   Thanks to the Caltech Bi 113 TAs, and Prof. Justin for helping with analysis
   and conceptual advice.
