@@ -1,10 +1,71 @@
 - fig:
-  title: "Fig. 1: Microtubule Time to Catastrophe as a Function of Tubulin Concentration ECDF"
-  filename: ecdf_plot.py
-  desc:  Used to generate the ecdf plot
-  pic: fig1.png
+  title: "Fig. 1: Microtubule Time to Catastrophe as a Function of Tubulin Concentration (ECDF)"
+  filename: fig1_ecdf.py
+  desc:  Used to generate the ecdf plot for raw data
+  pic: figure_1.png
   req:
     - ds: 
       storage: local
       title: Microtubule Catastrophe Data
       link: "gardner_mt_catastrophe_only_tubulin.csv"
+- fig:
+  title: "Fig. 2: Microtubule Time to Catastrophe Gamma Model (ECDF)"
+  filename: fig2_gammaplot.py
+  desc:  Used to generate the ecdf plot
+  pic: figure_2.png
+  req:
+    - ds: 
+      storage: local
+      title: Tidied Microtubule Catastrophe Data
+      link: "tidy_mt_catastrophe.xlsx"
+- fig:
+  title: "Fig. 3: Microtubule Time to Catastrophe Story Model (ECDF)"
+  filename: fig3_storyplot.py
+  desc:  Used to generate the ecdf plot
+  pic: figure_3.png
+  req:
+    - ds: 
+      storage: local
+      title: Tidied Microtubule Catastrophe Data
+      link: "tidy_mt_catastrophe.xlsx"
+- fig:
+  title: "Fig. 4: Microtubule Time to Catastrophe Comparing Gamma and Story Model (ECDF)"
+  filename: fig4_comparison.py
+  desc:  Used to generate the ecdf plot
+  pic: figure_4.png
+  req:
+    - ds: 
+      storage: local
+      title: Tidied Microtubule Catastrophe Data
+      link: "tidy_mt_catastrophe.xlsx"
+- fig:
+  title: "Fig. 5: AIC Values for Gamma and Story Distribution"
+  filename: fig5_aic.py
+  desc:  Used to generate the ecdf plot
+  pic: figure_5.png
+  req:
+    - ds: 
+      storage: local
+      title: Tidied Microtubule Catastrophe Data
+      link: "tidy_mt_catastrophe.xlsx"
+- fig:
+  title: "Fig. 6: Alpha and Beta Values for Gamma Distribution"
+  filename: fig6_7_paramcompare.py
+  desc:  Used to generate the ecdf plot
+  pic: figure_6.png
+  req:
+    - ds: 
+      storage: local
+      title: Tidied Microtubule Catastrophe Data
+      link: "tidy_mt_catastrophe.xlsx"
+- fig:
+  title: "Fig. 7: Alpha_MLE vs. Beta_MLE (Gamma Distribution)"
+  filename: fig6_7_paramcompare.py
+  desc:  Used to generate the ecdf plot
+  pic: figure_7.png
+  req:
+    - ds: 
+      storage: local
+      title: Tidied Microtubule Catastrophe Data
+      link: "tidy_mt_catastrophe.xlsx"
+

@@ -1,4 +1,24 @@
 - script:
-  name: ecdf_plot.py
+  name: fig1_ecdf.py
+  desc: >
+    Script which calculates and plots the ECDF of a data set.
+- script:
+  name: fig2_gammaplot.py
+  desc: >
+    Script which calculates and plots the ECDF of a data set.
+- script:
+  name: fig3_storyplot.py
+  desc: >
+    Script which calculates and plots the ECDF of a data set.
+- script:
+  name: fig4_comparison.py
+  desc: >
+    Script which calculates and plots the ECDF of a data set.
+- script:
+  name: fig5_aic.py
+  desc: >
+    Script which calculates and plots the ECDF of a data set.
+- script:
+  name: fig6_7_paramcompare.py
   desc: >
     Script which calculates and plots the ECDF of a data set.
