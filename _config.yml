@@ -4,7 +4,7 @@ description: >
 
 permalink: ':title/'
 baseurl:  "/"
-url: ""
+url: "kratargon.github.io"
 
 social-github: Kratargon
 social-email: lmdavis@caltech.edu
