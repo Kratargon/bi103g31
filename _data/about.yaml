@@ -17,12 +17,12 @@ Abstract: >
   In our analysis, we first determine whether the data is more accurately modelled 
   with a gamma distribution or a proposed distribution where two successive arrival 
   events with arrival rates beta 1 and beta 2 are necessary for catastrophe. We 
-  computed the MLEs of the data both of these distriutions and compared the results 
+  computed the MLEs of the data both of these distributions and compared the results 
   graphically. We also computed the AIC and concluded that the gamma distribution 
   refleccted our data more accurately.
   
   We proceeded to model the data with the gamma distribution and compute confidence
-  intervals for our MLE parameters, alpha and beta,in order to analyze our microtubule 
+  intervals for our MLE parameters, alpha and beta, in order to analyze our microtubule 
   catastrophe behavior. The beta values were consistent throughout. The confidence 
   intervals for the alpha values were very similar between the 7 uM and 9 uM trials 
   and between the 10 uM and 12 uM trials. The alpha of the 10 uM and 12 uM trials were 
