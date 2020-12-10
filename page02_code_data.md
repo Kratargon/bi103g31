@@ -36,7 +36,7 @@ sidebar: true
 <a class="post-thumbnail" style="background-image: url({{site.url}}{{site.baseurl}}/assets/img/{{fig.pic}})" href="{{site.baseurl}}/figures/{{fig.pic}}"> </a>
 
 <div class="post-content">
-<b class="post-title"><a href="{{site.url}}/{{site.baseurl}}/software/{{fig.filename}}">{{fig.title}}</a></b>
+<b class="post-title"><a href="{{site.url}}{{site.baseurl}}/software/{{fig.filename}}">{{fig.title}}</a></b>
 <p> {{fig.desc}}</p>
 
 <i>Necessary Data Sets </i><br/>
