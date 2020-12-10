@@ -5,7 +5,6 @@
   pic: figure_1.png
   req:
     - ds: 
-      storage: remote
       title: Microtubule Catastrophe Data
       link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"
 - fig:
@@ -15,9 +14,8 @@
   pic: figure_2.png
   req:
     - ds: 
-      storage: local
       title: Tidied Microtubule Catastrophe Data
-      link: "tidy_mt_catastrophe.xlsx"
+      link: "/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 3: Microtubule Time to Catastrophe Story Model (ECDF)"
   filename: fig3_storyplot.py
@@ -25,9 +23,8 @@
   pic: figure_3.png
   req:
     - ds: 
-      storage: local
       title: Tidied Microtubule Catastrophe Data
-      link: "tidy_mt_catastrophe.xlsx"
+      link: "/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 4: Microtubule Time to Catastrophe Comparing Gamma and Story Model (ECDF)"
   filename: fig4_comparison.py
@@ -35,9 +32,8 @@
   pic: figure_4.png
   req:
     - ds: 
-      storage: local
       title: Tidied Microtubule Catastrophe Data
-      link: "tidy_mt_catastrophe.xlsx"
+      link: "/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 5: AIC Values for Gamma and Story Distribution"
   filename: fig5_aic.py
@@ -45,9 +41,8 @@
   pic: figure_5.png
   req:
     - ds: 
-      storage: local
       title: Tidied Microtubule Catastrophe Data
-      link: "tidy_mt_catastrophe.xlsx"
+      link: "/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 6: Alpha and Beta Values for Gamma Distribution"
   filename: fig6_7_paramcompare.py
@@ -55,9 +50,8 @@
   pic: figure_6.png
   req:
     - ds: 
-      storage: local
       title: Tidied Microtubule Catastrophe Data
-      link: "tidy_mt_catastrophe.xlsx"
+      link: "/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 7: Alpha_MLE vs. Beta_MLE (Gamma Distribution)"
   filename: fig6_7_paramcompare.py
@@ -65,7 +59,6 @@
   pic: figure_7.png
   req:
     - ds: 
-      storage: local
       title: Tidied Microtubule Catastrophe Data
-      link: "tidy_mt_catastrophe.xlsx"
+      link: "/datasets/tidy_mt_catastrophe.xlsx"
 
