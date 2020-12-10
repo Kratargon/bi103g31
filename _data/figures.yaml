@@ -15,7 +15,7 @@
   req:
     - ds: 
       title: Tidied Microtubule Catastrophe Data
-      link: "/datasets/tidy_mt_catastrophe.xlsx"
+      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 3: Microtubule Time to Catastrophe Story Model (ECDF)"
   filename: fig3_storyplot.py
@@ -24,7 +24,7 @@
   req:
     - ds: 
       title: Tidied Microtubule Catastrophe Data
-      link: "/datasets/tidy_mt_catastrophe.xlsx"
+      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 4: Microtubule Time to Catastrophe Comparing Gamma and Story Model (ECDF)"
   filename: fig4_comparison.py
@@ -33,7 +33,7 @@
   req:
     - ds: 
       title: Tidied Microtubule Catastrophe Data
-      link: "/datasets/tidy_mt_catastrophe.xlsx"
+      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 5: AIC Values for Gamma and Story Distribution"
   filename: fig5_aic.py
@@ -42,7 +42,7 @@
   req:
     - ds: 
       title: Tidied Microtubule Catastrophe Data
-      link: "/datasets/tidy_mt_catastrophe.xlsx"
+      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 6: Alpha and Beta Values for Gamma Distribution"
   filename: fig6_7_paramcompare.py
@@ -51,7 +51,7 @@
   req:
     - ds: 
       title: Tidied Microtubule Catastrophe Data
-      link: "/datasets/tidy_mt_catastrophe.xlsx"
+      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
 - fig:
   title: "Fig. 7: Alpha_MLE vs. Beta_MLE (Gamma Distribution)"
   filename: fig6_7_paramcompare.py
@@ -60,5 +60,5 @@
   req:
     - ds: 
       title: Tidied Microtubule Catastrophe Data
-      link: "/datasets/tidy_mt_catastrophe.xlsx"
+      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
 
