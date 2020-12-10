@@ -5,8 +5,8 @@
   filetype: .csv
   filesize: 11 kb
 - dataset:
-  storage: remote 
-  link: "https://kratargon.github.io/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
+  storage: local 
+  link: "tidy_mt_catastrophe.xlsx"
   name: "Tidied Microtubule Catastrophe Data"
   filetype: .xslx
   filesize: 25 kb
