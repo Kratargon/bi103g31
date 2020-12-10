@@ -5,9 +5,9 @@
   pic: figure_1.png
   req:
     - ds: 
-      storage: local
+      storage: remote
       title: Microtubule Catastrophe Data
-      link: "gardner_mt_catastrophe_only_tubulin.csv"
+      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"
 - fig:
   title: "Fig. 2: Microtubule Time to Catastrophe Gamma Model (ECDF)"
   filename: fig2_gammaplot.py
