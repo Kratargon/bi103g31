@@ -13,20 +13,20 @@ title: >
   Microtubule Catastrophe
 authors: >
   Luc Davis, Pratyush Kandimalla, Iris Lee
-Abstract: >
-  The subject of this research is to consider several methods for modelling the 
+Abstract: |
+  The subject of this research is to consider several methods for modeling the 
   distribution of microtubule catastrophe times and determine both which method is 
   more accurate, and what the parameters give the most accurate distribution for that 
   method.
   
-  To this end, we compare data generated using distributions with real gathered data.
+  To this end, we compare data generated using distributions from real gathered data.
   
-  In our analysis, we first determine whether the data is more accurately modelled 
+  In our analysis, we first determine whether the data is more accurately modeled 
   with a gamma distribution or a proposed distribution where two successive arrival 
   events with arrival rates beta 1 and beta 2 are necessary for catastrophe. We 
-  computed the MLEs of the data both of these distributions and compared the results 
+  computed the MLEs of the data from both of these distributions and compared the results 
   graphically. We also computed the AIC and concluded that the gamma distribution 
-  refleccted our data more accurately.
+  reflected our data more accurately.
   
   We proceeded to model the data with the gamma distribution and compute confidence
   intervals for our MLE parameters, alpha and beta, in order to analyze our microtubule 
@@ -39,7 +39,7 @@ Abstract: >
   arrival (beta) remain somewhat consistent across concentrations, but the number of 
   arrivals (alpha) increase with increasing concentrations.
 Package:  >
-  https://github.com/KandimallaPrat/micro_catastrophe
-Acknowledgments: > 
+  [Micro Catastrophe](https://github.com/KandimallaPrat/micro_catastrophe)
+Acknowledgments: >
   Thanks to the Caltech Bi 103 TAs, and Prof. Justin for helping with analysis
   and conceptual advice. We would also like to thank Melissa Gardener for providing the dataset.
